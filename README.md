@@ -47,6 +47,20 @@ In this stage, we explore and understand the raw data to generate baseline insig
 - **SQL** ( SQL Server)
 - GitHub for version control and sharing
 
+## 📊 Analytical Techniques Covered
+
+### 🔍 Exploratory (EDA)
+- Database and schema exploration
+- Date range and missing values
+- Basic KPIs and statistics
+- Top-N, bottom-N, outliers
+
+### 📈 Advanced Analytics
+- Trend & time-based analysis
+- Cumulative and running metrics
+- Performance vs benchmarks
+- Segmentation and final reporting
+
 ---
 
 ## 📌 Key Highlights
