@@ -40,10 +40,24 @@ These queries dig deeper into business performance, trends, and patterns to gene
 ---
 
 ## 📂 Project Structure
-
-
-
----
+SQL-Data-Analytics-Project/
+│
+├── 📁https://github.com/divyanshpatel128/SQL-Advanced-analysis-project-/blob/main/project%20analysis/01.%20Database%20Exploration.sql       -- Overview of all tables, row counts, schema validation
+├── 📁  https://github.com/divyanshpatel128/SQL-Advanced-analysis-project-/blob/main/project%20analysis/02.%20Dimension%20Exploration.sql     -- Exploration of categorical dimensions (e.g. region, segment)
+├── 📁 https://github.com/divyanshpatel128/SQL-Advanced-analysis-project-/blob/main/project%20analysis/03.%20Date%20Exploration.sql         -- Identify date range, missing dates, trends by time
+├── 📁 https://github.com/divyanshpatel128/SQL-Advanced-analysis-project-/blob/main/project%20analysis/04.%20Measures%20Exploration.sql    -- Basic KPIs: total sales, avg. order value, counts
+├── 📁 https://github.com/divyanshpatel128/SQL-Advanced-analysis-project-/blob/main/project%20analysis/05.%20Magnitude%20Analysis.sqls             -- Absolute values like max order, highest revenue
+├── 📁  https://github.com/divyanshpatel128/SQL-Advanced-analysis-project-/blob/main/project%20analysis/06.%20Ranking%20(Top%20N).sql       -- Top-N and Bottom-N for customers, products, categories
+│
+├── 📁 https://github.com/divyanshpatel128/SQL-Advanced-analysis-project-/blob/main/project%20analysis/07.CHANGE%20OVER%20TIME%20ANALYSIS.sql    -- Monthly/Quarterly trend analysis
+├── 📁 https://github.com/divyanshpatel128/SQL-Advanced-analysis-project-/blob/main/project%20analysis/08.CUMULATIVE%20ANALYSIS.SQL        -- Running totals and accumulated metrics
+├── 📁 https://github.com/divyanshpatel128/SQL-Advanced-analysis-project-/blob/main/project%20analysis/09.PERFORMANCE%20ANALYSIS.SQL        -- Compare actual vs target, YoY growth
+├── 📁 https://github.com/divyanshpatel128/SQL-Advanced-analysis-project-/blob/main/project%20analysis/10.PART-TO-WHOLE%20ANALYSIS.SQL               -- Proportion of total by segment (e.g., region-wise sales)
+├── 📁 https://github.com/divyanshpatel128/SQL-Advanced-analysis-project-/blob/main/project%20analysis/11.Customer%20Report.SQL       -- Split data into cohorts (e.g., new vs loyal customers)
+├── https://github.com/divyanshpatel128/SQL-Advanced-analysis-project-/blob/main/project%20analysis/12.1.DATA%20SEGMENTATION.SQL
+    -- Final cleaned, summarized views for Customers dashboards
+├── 📁 https://github.com/divyanshpatel128/SQL-Advanced-analysis-project-/blob/main/project%20analysis/12.2..Product%20Report.SQL
+    -- Final cleaned, summarized views for product dashboards
 
 ## 💡 Tools Used
 
