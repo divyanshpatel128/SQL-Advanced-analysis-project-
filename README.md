@@ -80,10 +80,5 @@ Connect with me on https://www.linkedin.com/in/divyansh-patel-dataanalyst/
 
 ---
 
-## ✅ Want to Contribute or Fork?
-
-Feel free to fork this repo, adapt the structure to your dataset, or reach out for collaboration!
-
-
 
 
